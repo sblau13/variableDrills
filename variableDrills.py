@@ -107,7 +107,7 @@ ListInt=[1,2,3,4,5]
 print(ListInt[2])
 
 #23) Make a list called listString of 5 string variables.
-ListString=[a,b,c,d,e]
+ListString=["a","b","c","d","e"]
 
 #24) Print the 4th item in listString, using indexes.
 print(ListString[3])
